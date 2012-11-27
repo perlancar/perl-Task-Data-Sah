@@ -15,4 +15,6 @@ This task will install all Data::Sah modules.
 
 =pkg Sah
 
+=pkg Test::Sah
+
 =cut
